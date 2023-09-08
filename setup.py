@@ -13,10 +13,10 @@ from setuptools import setup
 
 setup(
     name='Flask-Mako',
-    version='0.4',
+    version='0.4.2',
     url='https://github.com/benselme/flask-mako',
     license='BSD',
-    author='Beranger Enselme, Frank Murphy',
+    author='Beranger Enselme, Frank Murphy, Nathan Brown',
     author_email='benselme@gmail.com',
     description='Mako templating support for Flask applications.',
     long_description=__doc__,
